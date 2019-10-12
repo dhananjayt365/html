@@ -5,7 +5,9 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
         <body >
-        <div id="avatar">
+		<p>
+		1st </p>
+		<div id="avatar">
           <img src="loginavatar.jpg"; id="avt">
            <form ><br>&nbsp;LOGIN<br>
            <input type="username" placeholder="Enter username"     ><br><br>
